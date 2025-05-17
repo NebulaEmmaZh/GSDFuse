@@ -127,6 +127,3 @@ python main.py --data_prefix ${relative_data_dir} --train_config ./train_config/
 
 有关方法和结果的详细信息，请参阅我们的论文。
 
-## 许可证
-
-本项目采用MIT许可证。详见 [LICENSE](LICENSE) 文件。
