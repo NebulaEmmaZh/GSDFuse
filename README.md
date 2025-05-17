@@ -131,9 +131,6 @@ python main.py --data_prefix ${relative_data_dir} --train_config ./train_config/
 
 For details of the methods and results, please refer to our paper.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
