@@ -41,14 +41,15 @@ GSDFuse/
 The project requires the following dependencies (recommended versions for reproducibility):
 
 ```
-python == 3.8.11
-pytorch == 1.8.0
+python == 3.8.20
+torch == 2.4.1
+torch_geometric == 2.3.1
 cython == 0.29.24
-g++ == 5.4.0  # C++ compiler for Cython extensions
+g++ == 11.4.0  # C++ compiler for Cython extensions
 numpy == 1.20.3
 scipy == 1.6.2
-scikit-learn == 0.24.2
-imbalanced-learn  # SMOTE implementation
+scikit-learn == 1.3.2
+imbalanced-learn == 0.12.4  # SMOTE implementation
 pyyaml == 5.4.1
 ```
 
